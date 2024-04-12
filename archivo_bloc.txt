@@ -1,1 +1,2 @@
-hola como estas , este es u archivo de git.
+hola como estas , este es un archivo de comprobacion para ver si git esta fucionando de la mejor manera
+vamos a probar un nuevo un nuevo push.
